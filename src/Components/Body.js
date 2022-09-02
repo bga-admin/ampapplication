@@ -265,6 +265,10 @@ function Body(){
     </div>
   </div>
   <footer className="site-footer mt-4">
+  <script
+        src="https://kit.fontawesome.com/f41333a293.js"
+        crossorigin="anonymous"
+      ></script>
     <div className="container">
       <div className="row">
         <div className="col-sm-12 col-md-6">
