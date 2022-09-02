@@ -5,7 +5,7 @@ import Body from "./Components/Body"
 
 function App() {
   return (
-    <div >
+    <div className='WORK'>
             <Navbar />
       <Body />
       <header className="App-header">
